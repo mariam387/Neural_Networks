@@ -53,7 +53,7 @@ A machine learning model that predicts whether a customer’s credit card applic
 ---
 
 ## Project Structure
-
+```
 ├── Credit_Card_Approval/
 │ ├── Credit_Card_Approval.ipynb
 │ ├── cc_approvals.data
@@ -62,3 +62,4 @@ A machine learning model that predicts whether a customer’s credit card applic
 │ ├── Fraud_Detection.ipynb
 │ ├── labelled_train.csv
 │ ├── labelled_validation.csv
+```
